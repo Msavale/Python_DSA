@@ -55,5 +55,5 @@ We welcome contributions! Feel free to submit pull requests for bug fixes, impro
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as needed.
 
 ## Author
-This project was created to serve as a learning resource for Python enthusiasts interested in Data Structures and Algorithms.
+Mayur Savale
 
